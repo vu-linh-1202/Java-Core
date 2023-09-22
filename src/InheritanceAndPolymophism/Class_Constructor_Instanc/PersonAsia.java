@@ -3,6 +3,7 @@ package InheritanceAndPolymophism.Class_Constructor_Instanc;
 public class PersonAsia extends Person{
     private int age;
     private int height;
+
     public PersonAsia(String name,int age,  int height) {
         // Gọi tới Constructor mặc định của lớp cha (Person).
         // Nhằm mục đích gán tạo giá trị cho các trường (field) của lớp cha.
