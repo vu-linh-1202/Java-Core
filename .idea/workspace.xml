@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bec97ffe-6a47-41f2-97e7-37c6b1cdbaae" name="Changes" comment="Abstract Class and Interface in Java.">
-      <change afterPath="$PROJECT_DIR$/src/String_StringBuffer_StringBuilder/ImmutableString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_StringBuffer_StringBuilder/StringBuilderStringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_StringBuffer_StringBuilder/StringInJava.java" afterDir="false" />
+    <list default="true" id="bec97ffe-6a47-41f2-97e7-37c6b1cdbaae" name="Changes" comment="String, StringBuffer and StringBuilder in Java. How to use them.">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/DemoTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/MethodCallStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/RuntimeExceptionDemo/NullPointerExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/AgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/AgeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/TooOldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/TooYoungException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/TryCatchDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/TryCatchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionInJava/try_catch/TryCatchFinally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InheritanceAndPolymophism/Class_Constructor_Instanc/PersonAsia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InheritanceAndPolymophism/Class_Constructor_Instanc/PersonAsia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringBuilderStringBuffer">
-    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClassAndInterface.Interface.DemoInterface" />
+  <component name="RunManager" selected="Application.NullPointerExceptionDemo">
+    <configuration name="ExceptionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionInJava.try_catch.ExceptionDemo1" />
       <module name="Java-Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClassAndInterface.Interface.*" />
+          <option name="PATTERN" value="ExceptionInJava.try_catch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_StringBuffer_StringBuilder.ImmutableString" />
+    <configuration name="NullPointerExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionInJava.RuntimeExceptionDemo.NullPointerExceptionDemo" />
       <module name="Java-Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_StringBuffer_StringBuilder.*" />
+          <option name="PATTERN" value="ExceptionInJava.RuntimeExceptionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JobDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClassAndInterface.AbstractClass.Abstract.JobDemo" />
+    <configuration name="TryCatchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionInJava.try_catch.TryCatchDemo1" />
       <module name="Java-Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClassAndInterface.AbstractClass.Abstract.*" />
+          <option name="PATTERN" value="ExceptionInJava.try_catch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_StringBuffer_StringBuilder.StringBuilderStringBuffer" />
+    <configuration name="TryCatchDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionInJava.try_catch.TryCatchDemo2" />
       <module name="Java-Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_StringBuffer_StringBuilder.*" />
+          <option name="PATTERN" value="ExceptionInJava.try_catch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_StringBuffer_StringBuilder.StringInJava" />
+    <configuration name="TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionInJava.try_catch.TryCatchFinally" />
       <module name="Java-Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_StringBuffer_StringBuilder.*" />
+          <option name="PATTERN" value="ExceptionInJava.try_catch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBuilderStringBuffer" />
-        <item itemvalue="Application.ImmutableString" />
-        <item itemvalue="Application.StringInJava" />
-        <item itemvalue="Application.DemoInterface" />
-        <item itemvalue="Application.JobDemo" />
+        <item itemvalue="Application.NullPointerExceptionDemo" />
+        <item itemvalue="Application.TryCatchFinally" />
+        <item itemvalue="Application.TryCatchDemo2" />
+        <item itemvalue="Application.TryCatchDemo1" />
+        <item itemvalue="Application.ExceptionDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695235764749</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="String, StringBuffer and StringBuilder in Java. How to use them.">
+      <option name="closed" value="true" />
+      <created>1695409764570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695409764570</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +207,8 @@
     <MESSAGE value="Inheritance in Java, How to use and understand about Class, Constructor, Instance" />
     <MESSAGE value="Polymophism in Java." />
     <MESSAGE value="Abstract Class and Interface in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Class and Interface in Java." />
+    <MESSAGE value="String, StringBuffer and StringBuilder in Java. How to use them." />
+    <option name="LAST_COMMIT_MESSAGE" value="String, StringBuffer and StringBuilder in Java. How to use them." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
